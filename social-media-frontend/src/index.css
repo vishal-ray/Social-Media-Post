@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.image{
+  background-color:#ffffff;
+  background-image:url(https://drive.google.com/file/d/1g3Q6LNghMoY43b72QhggNcKDZSKArJbC/view?usp=sharing);
+  background-repeat:no-repeat;
+  background-position:top left;
+  background-attachment:fixed;
+}

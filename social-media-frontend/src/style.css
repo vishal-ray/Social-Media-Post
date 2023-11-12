@@ -1,0 +1,9 @@
+.text-color{
+    color: #2A679C ;
+    white-space: "pre-wrap";
+    overflow: visible;
+    max-width: 100%;
+    word-wrap: break-word;
+    font-size: 25px;
+    position: relative;
+}

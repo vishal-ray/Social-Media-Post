@@ -15,10 +15,10 @@ import java.util.Date;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity(name = "post_info")
+//@Entity(name = "post_info")
 public class PostInfo {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+//    @Id
+//    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String vacancyTitle;
     private Long vacancyNumber;
